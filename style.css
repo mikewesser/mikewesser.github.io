@@ -1,0 +1,24 @@
+/* Set font to Roboto */
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  /* Style for h1 */
+  h1 {
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+  }
+  
+  /* Style for image */
+  img {
+    display: block;
+    max-width: 33.33vw; /* 1/3 of viewport width */
+    margin: 0 auto; /* center the image horizontally */
+  }
+  
+  /* Text alignment */
+  body {
+    text-align: justify;
+    text-align: center; /* center the text horizontally */
+  }
