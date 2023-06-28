@@ -18,7 +18,7 @@ body {
   }
   
   /* Text alignment */
-  body {
+  p,body,div,span {
     text-align: justify;
     border-top: 3em solid transparent; /* Adjust the height as needed */
     border-bottom: 3em solid transparent; /* Adjust the height as needed */
